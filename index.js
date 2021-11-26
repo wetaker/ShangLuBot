@@ -1,4 +1,3 @@
-// https://discord.com/oauth2/authorize?client_id=843334175725322250&scope=bot
 
 // Dependencies
 const Discord = require('discord.js');
